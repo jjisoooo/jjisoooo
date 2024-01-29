@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:18ffff,100:00bcd4&text=Jisoo_Lee&fontAlign=70&fontSize=40&fontColor=edf7fa)
-
+<div align="center">
 I'm Jisoo Lee, a growing developer☘
 
 ## 📚Tech Stack
@@ -8,7 +8,7 @@ I'm Jisoo Lee, a growing developer☘
     <div>
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
          <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=black"> 
+        <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> 
     </div>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
@@ -32,4 +32,13 @@ I'm Jisoo Lee, a growing developer☘
 
 
 
-📫 reach me
+## 📫 reach me
+<div style="display:flex; flex-direction:row;">
+    <a href="dlwltn931@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div>
+
+</div>
+
