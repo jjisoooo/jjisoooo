@@ -2,6 +2,8 @@
 <div align="center">
 I'm Jisoo Lee, a growing developer☘
 
+<br>
+
 ## 📚Tech Stack
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -36,6 +38,7 @@ I'm Jisoo Lee, a growing developer☘
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div>
+<br>
 
 </div>
 
