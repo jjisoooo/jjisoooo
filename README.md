@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:18ffff,100:00bcd4&text=Jisoo_Lee&fontAlign=70&fontSize=40&fontColor=edf7fa)
-<div align="center">
+<div align="center">  
+  
 I'm Jisoo Lee, a growing developer☘
+
   
 
 
@@ -32,6 +34,7 @@ I'm Jisoo Lee, a growing developer☘
     <br>
 </div>
 
+  
 ## 📫 reach me
 <div style="display:flex; flex-direction:row;">
     <a href="dlwltn931@gmail.com">
