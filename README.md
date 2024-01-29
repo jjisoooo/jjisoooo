@@ -6,9 +6,9 @@ I'm Jisoo Lee, a growing developer☘
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=purple"> 
          <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> 
+        <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elastic%search&logoColor=yellow"> 
     </div>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
