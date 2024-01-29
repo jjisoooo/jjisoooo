@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=JISOO%LEE)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=Jisoo%%Lee&fontAlign=80)
 
 <!--
 **jjisoooo/jjisoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
