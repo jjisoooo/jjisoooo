@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:18ffff,100:00bcd4&text=Jisoo_Lee&fontAlign=70&fontSize=40&fontColor=edf7fa)
 <div align="center">
 I'm Jisoo Lee, a growing developer☘
+  
 
-<br>
 
 ## 📚Tech Stack
 
@@ -38,7 +38,8 @@ I'm Jisoo Lee, a growing developer☘
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div>
-<br>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjisoooo&show_icons=true&theme=transparent)
 
 </div>
 
