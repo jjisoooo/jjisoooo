@@ -3,8 +3,7 @@
   
 I'm Jisoo Lee, a growing developer☘
 
-  
-
+<br>
 
 ## 📚Tech Stack
 
@@ -33,7 +32,7 @@ I'm Jisoo Lee, a growing developer☘
     </div>
     <br>
 </div>
-
+<br>
   
 ## 📫 reach me
 <div style="display:flex; flex-direction:row;">
@@ -41,7 +40,8 @@ I'm Jisoo Lee, a growing developer☘
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div>
-  
+
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjisoooo&show_icons=true&theme=transparent)
 
 </div>
