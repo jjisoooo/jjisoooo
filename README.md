@@ -42,6 +42,7 @@ I'm Jisoo Lee, a growing developer☘
 </div>
 
 <br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjisoooo&show_icons=true&theme=transparent)
 
 </div>
